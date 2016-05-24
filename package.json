@@ -47,8 +47,7 @@
     "ember-cli-deploy-build": "^0.1.0",
     "ember-cli-deploy-front-end-builds": "^0.0.2",
     "ember-cli-deploy-gzip": "^0.1.0",
-    "ember-cli-deploy-plugin": "^0.2.0",
-    "ember-cli-deploy-s3": "^0.1.0"
+    "ember-cli-deploy-plugin": "^0.2.0"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
